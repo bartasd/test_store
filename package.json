@@ -1,0 +1,15 @@
+{
+  "name": "my_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4633"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
